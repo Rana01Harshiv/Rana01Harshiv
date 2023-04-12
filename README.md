@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Rana Harshiv
 ====================================================================================================================================
 
-Cross Platform Mobile-App Developer,Python
+Cross Platform Mobile-App Developer,Python Developer
 ------------------------------------------
 
 I am confident in my ability to deliver high-quality results on any project , Let's build something great together !
