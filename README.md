@@ -9,8 +9,8 @@ I am confident in my ability to deliver high-quality results on any project , Le
 *   🌍  I'm based in Surat , Gujarat
 *   🖥️  See my portfolio at [https://about.me/harshivrana](http://about.me/harshivrana)
 *   ✉️  You can contact me at [harshivrana01@gmail.com](mailto:harshivrana01@gmail.com)
-*   🚀  I'm currently working on [Online Doctor Appointment Application](http://https://github.com/Rana01Harshiv/HealthCare-1)
-*   🧠  I'm learning Python
+*   🚀  I'm currently Learning the Backend Technology 
+  
 
 ### Skills 
 <p align="left">
