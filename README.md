@@ -23,3 +23,4 @@ Learn,Grow,Loop !
 <a href="https://www.linkedin.com/in/Rana Harshiv" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
 <a href="https://www.twitter.com/rana_harshiv" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a>
 </p>
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Rana01Harshiv)](https://git.io/streak-stats)
