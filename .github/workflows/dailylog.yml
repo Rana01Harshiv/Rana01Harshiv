@@ -1,9 +1,8 @@
 name: Daily Log Tracker
 
-
 on:
   schedule:
-    -cron '0 0 * * *'
+    - cron: '0 0 * * *'
   workflow_dispatch:
 
 jobs:
@@ -19,10 +18,14 @@ jobs:
           echo "- Status: Focused and building 🚀" >> daily.md
           echo "" >> daily.md
 
-      - name: Commit and push changes
+      - name: Set up GitHub credentials
         run: |
           git config --global user.name 'Rana01Harshiv'
           git config --global user.email 'harshivrana01@gmail.com'
+          git remote set-url origin https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}
+
+      - name: Commit and push changes
+        run: |
           git add daily.md
-          git commit -m "Daily log update: $(date -u)"
+          git commit -m "Daily log update: $(date -u)" || echo "No changes to commit"
           git push
